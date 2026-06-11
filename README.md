@@ -2,7 +2,7 @@
 
 ## About
 Panamanian data professional transitioning from Data Analyst to Data Scientist.
-Currently completing the Google Data Analytics Certificate (Module 3/8).
+Currently completing the Google Data Analytics Certificate (Module 8/8).
 
 ## Roadmap
 - [ ] Google Data Analytics Certificate
